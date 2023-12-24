@@ -12,10 +12,10 @@
 <div align="center">
  
   <!---🔭 I’m currently working on **a marketplace**-->
- 🔭 I am currently looking to participate in innovative projects
+ 🔭 I am currently looking to **participate in innovative projects**
 
  <!---🌱 I’m currently learning **Docker, Supabase, AWS**--> 
-🌱 I'm currently learning kotlin, TailwindCSS, ThreeJS, Ruby and Go
+🌱 I'm currently learning **kotlin, TailwindCSS, ThreeJS, Ruby and Go**
 
 <!---💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Jennykings/Jennykings/issues)** --> 
 💬 Ask me about **HTML, CSS, Java, JavaScript, MySQL, SQL Server, Bootstrap y PHP**
