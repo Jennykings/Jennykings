@@ -11,13 +11,17 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+  <!---🔭 I’m currently working on **a marketplace**-->
+ 🔭 I am currently looking to participate in innovative projects
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Jennykings/Jennykings/issues)**
+ <!---🌱 I’m currently learning **Docker, Supabase, AWS**--> 
+🌱 I'm currently learning kotlin, TailwindCSS, ThreeJS, Ruby and Go
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+<!---💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Jennykings/Jennykings/issues)** --> 
+💬 Ask me about **HTML, CSS, Java, JavaScript, MySQL, SQL Server, Bootstrap y PHP**
+
+<!---⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**--> 
+⚡ Fun fact **The first programmer was a woman, Ada Lovelace, who was born in 1815**
 
  </div>
  
@@ -38,8 +42,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+   <!--- <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" /> 
+         <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>--> 
+    <img src="https://skillicons.dev/icons?i=photoshop,bootstrap,html,css,vscode,github,figma,git,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=illustrator,pr,nodejs,python,javascript,typescript,php,kotlin,c,java,mysql,godot" /><br>
 </div>
 
 <br/>
