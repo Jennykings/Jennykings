@@ -5,7 +5,7 @@
 
 </h1>
 
-<h3 align="center">A passionate software developer from Perú 🇵🇪 </h3>
+<h3 align="center">A passionate web developer from Perú 🇵🇪 </h3>
 
 <br/>
 
