@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/jennifer-reyes-aguilar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://Jennykings.github.io" target="_blank">
+  <a href="https://jennykings.github.io/Mi_Portafolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -44,8 +44,8 @@
 <div align="center">
    <!--- <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" /> 
          <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>--> 
-    <img src="https://skillicons.dev/icons?i=photoshop,bootstrap,html,css,vscode,github,figma,git,androidstudio" />
-    <img src="https://skillicons.dev/icons?i=illustrator,pr,nodejs,python,javascript,typescript,php,kotlin,cs,java,mysql,godot" /><br>
+    <img src="https://skillicons.dev/icons?i=photoshop,bootstrap,html,css,vscode,github,figma,git,androidstudio,react" />
+    <img src="https://skillicons.dev/icons?i=illustrator,pr,nodejs,python,javascript,typescript,php,kotlin,cs,java,mysql,godot,laravel" /><br>
 </div>
 
 <br/>
