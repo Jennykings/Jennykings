@@ -64,6 +64,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+    <img width="390" src="https://streak-stats.demolab.com?user=Jennykings&theme=react&border_radius=10"/>
   <img width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=Jennykings&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   
 <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jennykings&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
