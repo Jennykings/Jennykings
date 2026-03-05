@@ -126,7 +126,7 @@
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://metrics.lecoq.io/Jennykings?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=America/Lima"/>
+<img src="https://metrics.lecoq.io/Jennykings?template=classic&base=header,activity,community,repositories&config.timezone=America%2FLima&config.display=large"/>
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux"/>
 
