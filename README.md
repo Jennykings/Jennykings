@@ -93,7 +93,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophy.ryglcloud.net/?username=Jennykings&theme=radical&row=1&column=7" />
+    <img src="https://trophy.ryglcloud.net/?username=Jennykings&theme=onedark&row=1&column=7" />
   </a>
 </div>
 <!---
