@@ -115,6 +115,23 @@
 
 
 
+<img src="https://streak-stats.demolab.com?user=Jennykings&theme=react&hide_border=true&border_radius=10"/>
+
+<img src="https://trophy.ryglcloud.net/?username=Jennykings&theme=radical&row=1&column=7"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&hide_border=true"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img src="https://metrics.lecoq.io/Jennykings?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=America/Lima"/>
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux"/>
+
+<img src="https://komarev.com/ghpvc/?username=Jennykings&color=blueviolet&style=flat"/>
+
 <hr/>
 
 <!--- <br/>
