@@ -173,6 +173,42 @@ Building tools, exploring systems and writing clean code.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&hide_border=true"/>
 
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jennykings&theme=react"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jennykings&theme=react"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jennykings&theme=react"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jennykings&theme=react"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jennykings&theme=react&utcOffset=-5"/>
+
+<img src="https://metrics.lecoq.io/Jennykings?template=classic&config.timezone=America/Lima"/>
+
+<img src="https://metrics.lecoq.io/Jennykings?template=terminal&config.timezone=America/Lima"/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jennykings"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jennykings&layout=donut&theme=react"/>
+
+<h2 align="center">📊 Activity Graph</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&hide_border=true&area=true"/>
+
+<h2 align="center">📊 GitHub Summary</h2>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jennykings&theme=react"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jennykings&theme=react"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Jennifer%20Reyes%20Aguilar&fontSize=40&fontColor=ffffff"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+
+
+
 <hr/>
 
 <!--- <br/>
