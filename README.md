@@ -77,6 +77,10 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennykings&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>-->
 
+<h2 align="center">📈 Activity Graph 📈</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&hide_border=true&area=true" width="100%"/>
+
 <br/><br/>
 
 <hr/>
