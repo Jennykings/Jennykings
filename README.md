@@ -209,6 +209,28 @@ Building tools, exploring systems and writing clean code.
 
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Jennykings&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jennykings&theme=react&border_radius=10" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jennifer%20Reyes%20Aguilar&fontSize=40&fontColor=ffffff"/>
+
 <hr/>
 
 <!--- <br/>
