@@ -85,6 +85,8 @@
 <h2 align="center">📈 Activity Graph 📈</h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://metrics.lecoq.io/Jennykings?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=America/Lima" />
+
 <hr/>
 
 <!--- <br/>
