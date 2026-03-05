@@ -99,8 +99,8 @@
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jennykings&show_icons=true&theme=react&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennykings&layout=compact&theme=react&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jennykings&show_icons=true&theme=react&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jennykings&layout=compact&theme=react&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com?user=Jennykings&theme=react&hide_border=true&border_radius=10"/>
 
