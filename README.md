@@ -97,6 +97,24 @@
 
 <img src="https://streak-stats.demolab.com?user=Jennykings&theme=react&border_radius=10" />
 
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jennykings&show_icons=true&theme=react&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennykings&layout=compact&theme=react&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Jennykings&theme=react&hide_border=true&border_radius=10"/>
+
+<img src="https://trophy.ryglcloud.net/?username=Jennykings&theme=radical&row=1&column=7" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&hide_border=true"/>
+
+
+
 <hr/>
 
 <!--- <br/>
