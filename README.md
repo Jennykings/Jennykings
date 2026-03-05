@@ -132,6 +132,47 @@
 
 <img src="https://komarev.com/ghpvc/?username=Jennykings&color=blueviolet&style=flat"/>
 
+
+
+<h1 align="center">Hi 👋, I'm Jenny</h1>
+<h3 align="center">Software Developer</h3>
+
+<p align="center">
+Building tools, exploring systems and writing clean code.
+</p>
+
+---
+
+### 🧠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,linux,vscode"/>
+
+---
+
+### 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jennykings&show_icons=true&theme=react&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jennykings&layout=compact&theme=react&hide_border=true"/>
+
+---
+
+### 🔥 Streak
+
+<img src="https://streak-stats.demolab.com?user=Jennykings&theme=react&hide_border=true"/>
+
+---
+
+### 🏆 Achievements
+
+<img src="https://trophy.ryglcloud.net/?username=Jennykings&theme=radical&row=1&column=7"/>
+
+---
+
+### 📈 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&hide_border=true"/>
+
 <hr/>
 
 <!--- <br/>
