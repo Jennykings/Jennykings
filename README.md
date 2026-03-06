@@ -91,36 +91,24 @@
 <h2 align="center">📈 Activity Graph 📈</h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&hide_border=true"/>
 
-<img src="https://metrics.lecoq.io/Jennykings?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=America/Lima" />
-![Metrics](https://metrics.lecoq.io/Jennykings?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=America%2FLima)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,kotlin,nodejs,mysql,git,github,vscode,figma,bootstrap,tailwind&perline=8" />
 </p>
-
-
-
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&hide_border=true"/>
-
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-<img src="https://metrics.lecoq.io/Jennykings?template=classic&base=header,activity,community,repositories&config.timezone=America%2FLima&format=svg"/>
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux"/>
 
 <img src="https://komarev.com/ghpvc/?username=Jennykings&color=blueviolet&style=flat"/>
 
