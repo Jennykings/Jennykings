@@ -131,7 +131,8 @@
 
 
 <!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jennifer%20Reyes%20Aguilar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jennifer%20Reyes%20Aguilar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Jennifer%20Reyes%20Aguilar&fontSize=40&fontColor=ffffff"/>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jennykings.Jennykings" />
 
@@ -301,7 +302,8 @@ Passionate developer focused on creating modern web applications 🚀
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<!---<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 
 
 
