@@ -14,7 +14,7 @@ Passionate developer focused on creating modern web applications 🚀
 ---
 
 # 👩‍💻 About Me
-
+<p align="center">
 🔭 I’m currently looking to participate in innovative projects
 
 🌱 I’m currently learning  
@@ -25,7 +25,7 @@ HTML, CSS, JavaScript, Java, PHP, MySQL, SQL Server
 
 ⚡ Fun fact  
 The first programmer was Ada Lovelace (1815)
-
+</p>
 ---
 
 # 🌐 Connect with me 🌐
