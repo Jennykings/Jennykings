@@ -93,6 +93,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
 <img src="https://metrics.lecoq.io/Jennykings?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=America/Lima" />
+![Metrics](https://metrics.lecoq.io/Jennykings?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=America%2FLima)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,kotlin,nodejs,mysql,git,github,vscode,figma,bootstrap,tailwind&perline=8" />
@@ -208,9 +209,6 @@ Building tools, exploring systems and writing clean code.
   <img src="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
 
 
 
