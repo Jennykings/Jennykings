@@ -91,11 +91,8 @@
 
 
 
-### 📈 Activity
 
-
-
-
+<h2 align="center">📈 GitHub Summary 📈</h2>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jennykings&theme=react"/>
 
@@ -108,20 +105,12 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jennykings&theme=react&utcOffset=-5"/>
 
 
-
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jennykings&layout=donut&theme=react"/>
-
-
-<h2 align="center">📊 Activity Graph</h2>
+<hr/>
+<h2 align="center">📊 Activity Graph 📊</h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&hide_border=true&area=true"/>
 
-<h2 align="center">📊 GitHub Summary</h2>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jennykings&theme=react"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jennykings&theme=react"/>
 
 
 
