@@ -352,13 +352,19 @@ Passionate developer focused on creating modern web applications 🚀
 
 <br/> -->
 
+
+
 <!--- trophy (start) -->
+<!---
 <br/>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://trophy.ryglcloud.net/?username=Jennykings&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </a>
 </div>
+-->
+
+
 <!---
 <br/>
 <div align="center">
