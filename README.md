@@ -119,8 +119,6 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Jennifer%20Reyes%20Aguilar&fontSize=40&fontColor=ffffff"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 
 
