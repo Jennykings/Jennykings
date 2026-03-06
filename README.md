@@ -98,16 +98,8 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,kotlin,nodejs,mysql,git,github,vscode,figma,bootstrap,tailwind&perline=8" />
 </p>
 
-<img src="https://streak-stats.demolab.com?user=Jennykings&theme=react&border_radius=10" />
 
 
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jennykings&show_icons=true&theme=react&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jennykings&layout=compact&theme=react&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=Jennykings&theme=react&hide_border=true&border_radius=10"/>
-
-<img src="https://trophy.ryglcloud.net/?username=Jennykings&theme=radical&row=1&column=7" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake-dark.svg">
@@ -118,16 +110,12 @@
 
 
 
-<img src="https://streak-stats.demolab.com?user=Jennykings&theme=react&hide_border=true&border_radius=10"/>
-
-<img src="https://trophy.ryglcloud.net/?username=Jennykings&theme=radical&row=1&column=7"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&hide_border=true"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 <img src="https://metrics.lecoq.io/Jennykings?template=classic&base=header,activity,community,repositories&config.timezone=America%2FLima&format=svg"/>
 
@@ -188,11 +176,13 @@ Building tools, exploring systems and writing clean code.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jennykings&theme=react&utcOffset=-5"/>
 
+
 <img src="https://metrics.lecoq.io/Jennykings?template=classic&config.timezone=America/Lima"/>
 
 <img src="https://metrics.lecoq.io/Jennykings?template=terminal&config.timezone=America/Lima"/>
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jennykings"/>
+
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jennykings&layout=donut&theme=react"/>
 
@@ -205,6 +195,8 @@ Building tools, exploring systems and writing clean code.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jennykings&theme=react"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jennykings&theme=react"/>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Jennifer%20Reyes%20Aguilar&fontSize=40&fontColor=ffffff"/>
 
@@ -220,19 +212,7 @@ Building tools, exploring systems and writing clean code.
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Jennykings&theme=radical&no-frame=true&row=1&column=7" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jennykings&theme=react&border_radius=10" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jennifer%20Reyes%20Aguilar&fontSize=40&fontColor=ffffff"/>
 
 
 <!-- HEADER ANIMADO -->
@@ -353,14 +333,6 @@ Passionate developer focused on creating modern web applications 🚀
 
 
 
-
-
-<img width="390" src="https://streak-stats.demolab.com?user=Jennykings&theme=react"/>
-
-<img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jennykings&show_icons=true&theme=react"/>
-
-
-<img width="325" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jennykings&layout=compact&theme=react"/>
 
 
 <hr/>
