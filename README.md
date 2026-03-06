@@ -188,7 +188,6 @@ Passionate developer focused on creating modern web applications 🚀
     <img src="https://skillicons.dev/icons?i=illustrator,pr,nodejs,python,javascript,typescript,php,kotlin,cs,java,mysql,godot" />
 </div>
 
-<br/>
 
 <!---otras versiones parecidas-->
 <!--- 
