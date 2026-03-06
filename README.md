@@ -230,7 +230,9 @@ Passionate developer focused on creating modern web applications 🚀
 
 <img width="390" src="https://streak-stats.demolab.com?user=Jennykings&theme=react&border_radius=10"/>
 
-<img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jennykings&show_icons=true&theme=react&hide_border=true"/>
+<img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jennykings&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+<!-- el de abajo funciona pero no cuenta todo--->
+<!--<img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jennykings&show_icons=true&theme=react&hide_border=true"/>--->
 
 <br>
 
