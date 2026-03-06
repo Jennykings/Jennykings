@@ -249,7 +249,7 @@ Passionate developer focused on creating modern web applications 🚀
 
 ---
 
-# 📊 GitHub Stats 📊
+# 📊 GitHub Summary 📊
 
 <p align="center">
 
