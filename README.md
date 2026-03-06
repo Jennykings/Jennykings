@@ -94,68 +94,14 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&hide_border=true"/>
 
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,kotlin,nodejs,mysql,git,github,vscode,figma,bootstrap,tailwind&perline=8" />
-</p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake.svg">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake.svg">
-</picture>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 
 <img src="https://komarev.com/ghpvc/?username=Jennykings&color=blueviolet&style=flat"/>
 
 
-
-<h1 align="center">Hi 👋, I'm Jenny</h1>
-<h3 align="center">Software Developer</h3>
-
-<p align="center">
-Building tools, exploring systems and writing clean code.
-</p>
-
----
-
-### 🧠 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,linux,vscode"/>
-
----
-
-### 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jennykings&show_icons=true&theme=react&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jennykings&layout=compact&theme=react&hide_border=true"/>
-
----
-
-### 🔥 Streak
-
-<img src="https://streak-stats.demolab.com?user=Jennykings&theme=react&hide_border=true"/>
-
----
-
-### 🏆 Achievements
-
-<img src="https://trophy.ryglcloud.net/?username=Jennykings&theme=radical&row=1&column=7"/>
-
----
-
 ### 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&hide_border=true"/>
+
 
 
 
