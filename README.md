@@ -73,7 +73,10 @@
 
 <br/>
 
-<img width="325" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jennykings&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" />
+<img width="325" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jennykings&layout=compact&theme=react"/>
+<!-- el de abajo funciona pero es mas viejo--->
+<!-- <img width="325" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jennykings&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" />--->
+
 
 <!---<img width=390 src="https://github-readme-stats.vercel.app/api?username=Jennykings&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
