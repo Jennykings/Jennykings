@@ -88,15 +88,7 @@
 <hr/>
 
 
-<h2 align="center">📈 Activity Graph 📈</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&hide_border=true&area=true" width="100%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&hide_border=true"/>
-
-
-
-
-<img src="https://komarev.com/ghpvc/?username=Jennykings&color=blueviolet&style=flat"/>
 
 
 ### 📈 Activity
@@ -176,7 +168,7 @@ Passionate developer focused on creating modern web applications 🚀
 
 ---
 
-# 🌐 Connect with me
+# 🌐 Connect with me 🌐
 
 <p align="center">
 
@@ -196,7 +188,7 @@ Passionate developer focused on creating modern web applications 🚀
 
 ---
 
-# ⚒️ Languages & Tools
+# ⚒️ Languages & Tools ⚒️
 
 <p align="center">
 
@@ -206,7 +198,7 @@ Passionate developer focused on creating modern web applications 🚀
 
 ---
 
-# 🐍 Contributions Snake
+# 🐍 Contributions Snake 🐍
 
 <p align="center">
 <picture>
@@ -232,7 +224,7 @@ Passionate developer focused on creating modern web applications 🚀
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats 📊
 
 <p align="center">
 
@@ -248,7 +240,7 @@ Passionate developer focused on creating modern web applications 🚀
 
 ---
 
-# 📈 Activity Graph
+# 📈 Activity Graph 📈
 
 <p align="center">
 
@@ -258,7 +250,7 @@ Passionate developer focused on creating modern web applications 🚀
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophies 🏆
 
 <p align="center">
 
@@ -275,7 +267,7 @@ Passionate developer focused on creating modern web applications 🚀
 
 ---
 
-# 💬 Random Dev Quote
+# 💬 Random Dev Quote 💬
 
 <p align="center">
 
