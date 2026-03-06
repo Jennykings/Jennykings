@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Jennifer%20Reyes%20Aguilar&fontSize=40&fontColor=ffffff"/>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jennykings.Jennykings" />
 
 <h1 align="center">
