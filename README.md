@@ -350,6 +350,16 @@ Passionate developer focused on creating modern web applications 🚀
 
 
 
+
+
+<img width="390" src="https://streak-stats.demolab.com?user=Jennykings&theme=react"/>
+
+<img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jennykings&show_icons=true&theme=react"/>
+
+
+<img width="325" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jennykings&layout=compact&theme=react"/>
+
+
 <hr/>
 
 <!--- <br/>
