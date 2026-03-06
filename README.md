@@ -231,6 +231,125 @@ Building tools, exploring systems and writing clean code.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jennifer%20Reyes%20Aguilar&fontSize=40&fontColor=ffffff"/>
 
+
+<!-- HEADER ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jennifer%20Reyes%20Aguilar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jennykings.Jennykings" />
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Jennifer+Reyes+Aguilar;Web+Developer+from+Perú+🇵🇪;Welcome+to+my+GitHub!" />
+</h1>
+
+<h3 align="center">
+Passionate developer focused on creating modern web applications 🚀
+</h3>
+
+---
+
+# 👩‍💻 About Me
+
+🔭 I’m currently looking to **participate in innovative projects**
+
+🌱 I’m currently learning  
+**Kotlin, TailwindCSS, ThreeJS, Ruby and Go**
+
+💬 Ask me about  
+**HTML, CSS, JavaScript, Java, PHP, MySQL, SQL Server**
+
+⚡ Fun fact  
+**The first programmer was Ada Lovelace (1815)**
+
+---
+
+# 🌐 Connect with me
+
+<p align="center">
+
+<a href="mailto:jennykings51@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jennifer-reyes-aguilar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://jennykings.github.io/Mi_Portafolio/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚒️ Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,nodejs,php,python,java,kotlin,mysql,git,github,vscode,figma,photoshop,illustrator"/>
+
+</p>
+
+---
+
+# 🐍 Contributions Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Jennykings/Jennykings/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="390" src="https://streak-stats.demolab.com?user=Jennykings&theme=react&border_radius=10"/>
+
+<img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jennykings&show_icons=true&theme=react&hide_border=true"/>
+
+<br>
+
+<img width="325" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jennykings&layout=compact&theme=react"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&area=true&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://trophy.ryglcloud.net/?username=Jennykings&theme=radical&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+
+
 <hr/>
 
 <!--- <br/>
