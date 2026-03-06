@@ -110,7 +110,10 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennykings&theme=react-dark&hide_border=true&area=true"/>
 
+<hr/>
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
+<img src="https://trophy.ryglcloud.net/?username=Jennykings&theme=radical&row=1&column=7&margin-h=15&margin-w=5" alt="TROPHY" />
 
 
 
