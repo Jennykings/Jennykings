@@ -1,4 +1,3 @@
-
 <!-- HEADER ANIMADO -->
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jennifer%20Reyes%20Aguilar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Jennifer%20Reyes%20Aguilar&fontSize=40&fontColor=ffffff"/>
@@ -17,16 +16,16 @@ Passionate developer focused on creating modern web applications 🚀
 
 # 👩‍💻 About Me
 
-🔭 I’m currently looking to **participate in innovative projects**
+🔭 I’m currently looking to participate in innovative projects
 
 🌱 I’m currently learning  
-**Kotlin, TailwindCSS, ThreeJS, Ruby and Go**
+Kotlin, TailwindCSS, ThreeJS, Ruby and Go
 
 💬 Ask me about  
-**HTML, CSS, JavaScript, Java, PHP, MySQL, SQL Server**
+HTML, CSS, JavaScript, Java, PHP, MySQL, SQL Server
 
 ⚡ Fun fact  
-**The first programmer was Ada Lovelace (1815)**
+The first programmer was Ada Lovelace (1815)
 
 ---
 
@@ -96,7 +95,6 @@ Passionate developer focused on creating modern web applications 🚀
 
 
 ---
-
 # 📊 GitHub Stats 📊
 
 <p align="center">
