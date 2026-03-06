@@ -221,12 +221,8 @@ Building tools, exploring systems and writing clean code.
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jennykings.Jennykings" />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Jennifer+Reyes+Aguilar;Web+Developer+from+Perú+%F0%9F%87%B5%F0%9F%87%AA;Welcome+to+my+GitHub!" />
-</h1>
-<!--
-<h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Jennifer+Reyes+Aguilar;Web+Developer+from+Perú+🇵🇪;Welcome+to+my+GitHub!" />
-</h1>-->
+</h1>
 
 <h3 align="center">
 Passionate developer focused on creating modern web applications 🚀
