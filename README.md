@@ -3,7 +3,7 @@
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jennifer%20Reyes%20Aguilar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Jennifer%20Reyes%20Aguilar&fontSize=40&fontColor=ffffff"/>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jennykings.Jennykings" />
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Jennykings.Jennykings" />
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Jennifer+Reyes+Aguilar;Web+Developer+from+Perú+🇵🇪;Welcome+to+my+GitHub!" />
