@@ -314,7 +314,7 @@ Passionate developer focused on creating modern web applications 🚀
 <p align="center">
 
 <img src="https://trophy.ryglcloud.net/?username=Jennykings&theme=radical&no-frame=true&row=1&column=7"/>
-<img src="https://trophy.ryglcloud.net/?username=Jennykings&theme=radical&no-frame=true&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+<img src="https://trophy.ryglcloud.net/?username=Jennykings&theme=radical&row=1&column=7&margin-h=15&margin-w=5" alt="TROPHY" />
 <img src="https://trophy.ryglcloud.net/?username=Jennykings&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 
 </p>
