@@ -180,8 +180,20 @@ Passionate developer focused on creating modern web applications 🚀
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,nodejs,php,python,java,kotlin,mysql,git,github,vscode,figma,photoshop,illustrator"/>
+<br/>
+<div align="center">
+   <!--- <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" /> 
+         <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>--> 
+    <img src="https://skillicons.dev/icons?i=photoshop,bootstrap,html,css,vscode,github,figma,git,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=illustrator,pr,nodejs,python,javascript,typescript,php,kotlin,cs,java,mysql,godot" /><br>
+</div>
 
+<br/>
+
+<!---otras versiones parecidas-->
+<!--- 
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,nodejs,php,python,java,kotlin,mysql,git,github,vscode,figma,photoshop,illustrator"/>
+--> 
 </p>
 
 ---
