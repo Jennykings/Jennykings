@@ -117,8 +117,12 @@
 
 <img src="https://trophy.ryglcloud.net/?username=Jennykings&theme=radical&row=1&column=7&margin-h=15&margin-w=5" alt="TROPHY" />
 
+<hr/>
+<h2 align="center">💬 Random Dev Quote 💬</h2>
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
+<hr/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 
 
